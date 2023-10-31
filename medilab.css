@@ -1,0 +1,19 @@
+.top{
+    background-image: url(images/bus.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.text{
+    text-align: center;
+    padding-top: 10%;
+}
+
+.span{
+    border-bottom: 5px solid rgb(241, 219, 12);
+}
+.form{
+    width: 80%;
+    border: 2px solid white;
+    
+}
